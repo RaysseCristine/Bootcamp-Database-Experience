@@ -1,4 +1,4 @@
-# Descrição do Projeto
+# Descrição do Projeto - E-Commerce
 
  - Produto:
     - Os produtos são vendidos por uma única plataforma online. Contudo, estes podem ter vendedores distintos (terceiros).
